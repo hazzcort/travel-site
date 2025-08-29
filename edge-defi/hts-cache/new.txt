@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+04:35:52	297/297	---MCZ	200	added ('OK')	text/html	date:Fri,%2029%20Aug%202025%2011:35:52%20GMT	https://edgeblockchain.pages.dev/robots.txt		(from )
+04:35:53	401/401	---MCZ	200	added ('OK')	text/html	date:Fri,%2029%20Aug%202025%2011:35:52%20GMT	https://edgeblockchain.pages.dev/	C:/My%20Web%20Sites/edge-defi/edgeblockchain.pages.dev/index.html	(from )
